@@ -1,0 +1,8 @@
+2024-05-16 20:13:54,856.v2_emit_message.INFO ==================================================
+2024-05-16 20:13:54,856.v2_emit_message.INFO Today is 2024-05-16 at 08:13 PM
+2024-05-16 20:13:54,856.v2_emit_message.INFO Running on: posix Darwin 23.4.0
+2024-05-16 20:13:54,856.v2_emit_message.INFO Python version:  3.12.1
+2024-05-16 20:13:54,856.v2_emit_message.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.12
+2024-05-16 20:13:54,856.v2_emit_message.INFO Working dir: /Users/brettneely/Documents/streaming-03-rabbitmq
+2024-05-16 20:13:54,857.v2_emit_message.INFO ==================================================
+2024-05-16 20:13:54,874.v2_emit_message.INFO  [x] Sent Editing the message again

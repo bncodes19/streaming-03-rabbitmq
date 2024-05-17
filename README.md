@@ -161,6 +161,10 @@ Each of the version 2 programs include an error as well.
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
 
+## Terminal emitting and listening screenshot
+The below screenshot shows an example of the messages being sent and received through RabbitMQ.
+![Terminal Screenshot](terminal_screenshot.png "Terminal Screenshot")
+
 ## Reference
 
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
